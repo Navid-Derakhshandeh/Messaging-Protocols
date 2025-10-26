@@ -8,7 +8,7 @@ Server::Server(QObject *parent) : QObject(parent) {
     if (tcpServer->listen(QHostAddress::Any, 12345)) {
         qDebug() << " Server is listening on port 12345";
     } else {
-        qDebug() << "❌ Server failed to start:" << tcpServer->errorString();
+        qDebug() << "Server failed to start:" << tcpServer->errorString();
     }
 }
 
