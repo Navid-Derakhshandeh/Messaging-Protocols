@@ -1,5 +1,0 @@
-/home/navid/PeerChat/build/Desktop-Debug/CMakeFiles/Protocols.dir
-/home/navid/PeerChat/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/navid/PeerChat/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/navid/PeerChat/build/Desktop-Debug/CMakeFiles/Protocols_autogen_timestamp_deps.dir
-/home/navid/PeerChat/build/Desktop-Debug/CMakeFiles/Protocols_autogen.dir
